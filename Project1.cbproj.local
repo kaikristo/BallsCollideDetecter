@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.275,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.06 23:19:24.800,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.06 23:19:24.896,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.07 00:11:27.761,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\CircleCollision\Unit1.dfm=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.05.07 00:11:27.761,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\CircleCollision\Unit1.h=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.05.07 00:11:27.761,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\CircleCollision\Unit1.cpp=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.07 00:11:28.432,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\CircleCollision\Project1PCH1.h=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.07 00:11:29.498,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\CircleCollision\Project1.cbproj=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
